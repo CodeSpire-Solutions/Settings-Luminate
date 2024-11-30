@@ -13,7 +13,7 @@
 - [Stable:](#) Not available
 - [Beta:](#) Not available
 - [Alpha:](#) Not available
-- [Testing only:]([https://github.com/CodeSpire-Solutions/Settings-Luminate/releases/tag/Debug) Debug
+- [Testing only:](https://github.com/CodeSpire-Solutions/Settings-Luminate/releases/tag/Debug) Debug
 - [Public Test Build:](#) Not available
 
 ## License & Copyright
